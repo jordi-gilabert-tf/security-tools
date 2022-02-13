@@ -1,5 +1,0 @@
-setup.py
-tfsecutils.egg-info/PKG-INFO
-tfsecutils.egg-info/SOURCES.txt
-tfsecutils.egg-info/dependency_links.txt
-tfsecutils.egg-info/top_level.txt
