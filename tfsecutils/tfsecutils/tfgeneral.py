@@ -9,3 +9,8 @@ def isotoepoch(ts):
 def epochtoiso(t):
 
     return datetime.utcfromtimestamp(t).isoformat()
+
+def test():
+    
+    print("TEST OK")
+    
