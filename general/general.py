@@ -1,4 +1,4 @@
-ifrom datetime import dateteim
+from datetime import datetime
 
 
 def isotoepoch(ts):
